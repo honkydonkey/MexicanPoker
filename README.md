@@ -1,5 +1,7 @@
 # MexicanPoker
-Cording Mexican Poker when KIT lecture
+学部時代にウォーターフォールモデルでJavaでGUIのカードゲームプログラムを設計・開発した際
+設計書をもらいコーディングをした苦く懐かしい記憶のあるものです。
+正直、ここにあげるのも恥ずかしいですが、黒歴史としてあげておくことにします。
 
 #test
 *Github test
